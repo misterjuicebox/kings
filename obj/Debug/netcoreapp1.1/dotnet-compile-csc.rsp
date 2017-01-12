@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"/Users/mj/CodingDojo/mycsharp/deckofcards/obj/Debug/netcoreapp1.1/dotnet-compile.assemblyinfo.cs"
--out:"/Users/mj/CodingDojo/mycsharp/deckofcards/bin/Debug/netcoreapp1.1/deckofcards.dll"
+"/Users/mj/CodingDojo/mycsharp/kings/obj/Debug/netcoreapp1.1/dotnet-compile.assemblyinfo.cs"
+-out:"/Users/mj/CodingDojo/mycsharp/kings/bin/Debug/netcoreapp1.1/kings.dll"
 -r:"/Users/mj/.nuget/packages/Microsoft.CSharp/4.3.0/ref/netstandard1.0/Microsoft.CSharp.dll"
 -r:"/Users/mj/.nuget/packages/Microsoft.VisualBasic/10.1.0/ref/netstandard1.1/Microsoft.VisualBasic.dll"
 -r:"/Users/mj/.nuget/packages/Microsoft.Win32.Primitives/4.3.0/ref/netstandard1.3/Microsoft.Win32.Primitives.dll"
@@ -82,4 +82,4 @@
 -r:"/Users/mj/.nuget/packages/System.Threading.Timer/4.3.0/ref/netstandard1.2/System.Threading.Timer.dll"
 -r:"/Users/mj/.nuget/packages/System.Xml.ReaderWriter/4.3.0/ref/netstandard1.3/System.Xml.ReaderWriter.dll"
 -r:"/Users/mj/.nuget/packages/System.Xml.XDocument/4.3.0/ref/netstandard1.3/System.Xml.XDocument.dll"
-"/Users/mj/CodingDojo/mycsharp/deckofcards/Program.cs"
+"/Users/mj/CodingDojo/mycsharp/kings/Program.cs"

@@ -1,5 +1,5 @@
---temp-output:/Users/mj/CodingDojo/mycsharp/deckofcards/obj/Debug/netcoreapp1.1/
---out:/Users/mj/CodingDojo/mycsharp/deckofcards/bin/Debug/netcoreapp1.1/deckofcards.dll
+--temp-output:/Users/mj/CodingDojo/mycsharp/kings/obj/Debug/netcoreapp1.1/
+--out:/Users/mj/CodingDojo/mycsharp/kings/bin/Debug/netcoreapp1.1/kings.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_1
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:deckofcards
+--output-name:kings
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,4 +87,4 @@
 --reference:/Users/mj/.nuget/packages/System.Threading.Timer/4.3.0/ref/netstandard1.2/System.Threading.Timer.dll
 --reference:/Users/mj/.nuget/packages/System.Xml.ReaderWriter/4.3.0/ref/netstandard1.3/System.Xml.ReaderWriter.dll
 --reference:/Users/mj/.nuget/packages/System.Xml.XDocument/4.3.0/ref/netstandard1.3/System.Xml.XDocument.dll
-/Users/mj/CodingDojo/mycsharp/deckofcards/Program.cs
+/Users/mj/CodingDojo/mycsharp/kings/Program.cs
